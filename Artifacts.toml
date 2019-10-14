@@ -1,0 +1,89 @@
+[[Xorg_dri2proto]]
+arch = "armv7l"
+git-tree-sha1 = "127655b84eb3c6016f010678bbf7542973f5c014"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_dri2proto.download]]
+    sha256 = "6a8c4a07e795603eb23fd36e16f0b11e2901b95da4a9f8d15ed56d529dd942c5"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_dri2proto_jll.jl/releases/download/Xorg_dri2proto-v2.8.0+0/Xorg_dri2proto.v2.8.0.arm-linux-gnueabihf.tar.gz"
+[[Xorg_dri2proto]]
+arch = "aarch64"
+git-tree-sha1 = "aa8781785e9be1b631640229ffe085d8da8c2bfe"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_dri2proto.download]]
+    sha256 = "8c46c5f1d2152cd83bd1bf55f17ea8362785c36f487442527e85cb5736721330"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_dri2proto_jll.jl/releases/download/Xorg_dri2proto-v2.8.0+0/Xorg_dri2proto.v2.8.0.aarch64-linux-musl.tar.gz"
+[[Xorg_dri2proto]]
+arch = "i686"
+git-tree-sha1 = "bf1997167e069b29858bc06b6b5055d0e7f8cd40"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_dri2proto.download]]
+    sha256 = "0bf484707034cd1a81f5e664b3f57333739d83d2f570542dc0c71476816491ed"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_dri2proto_jll.jl/releases/download/Xorg_dri2proto-v2.8.0+0/Xorg_dri2proto.v2.8.0.i686-linux-musl.tar.gz"
+[[Xorg_dri2proto]]
+arch = "i686"
+git-tree-sha1 = "2373966eeded29c7e6f22f482bac0c988531d1d4"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_dri2proto.download]]
+    sha256 = "da81fb559f7c501f8f77bd3e69eff670a23f80b8bea7b878dacdda82177bfded"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_dri2proto_jll.jl/releases/download/Xorg_dri2proto-v2.8.0+0/Xorg_dri2proto.v2.8.0.i686-linux-gnu.tar.gz"
+[[Xorg_dri2proto]]
+arch = "x86_64"
+git-tree-sha1 = "b17e4801c0cc6171ed23ee71d9a582005089b7dc"
+os = "freebsd"
+
+    [[Xorg_dri2proto.download]]
+    sha256 = "ce82b36ebbadd3a23b335071a5da40743a989c4aec060bac2011ece1ec889ab0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_dri2proto_jll.jl/releases/download/Xorg_dri2proto-v2.8.0+0/Xorg_dri2proto.v2.8.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_dri2proto]]
+arch = "powerpc64le"
+git-tree-sha1 = "26c930bab2f18b0a391bb43ee823ecfa5b84199c"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_dri2proto.download]]
+    sha256 = "b5a3452669b2ebfa36958d42f02fa9a82024a13b5ec62a45bf170ba456e5d1c9"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_dri2proto_jll.jl/releases/download/Xorg_dri2proto-v2.8.0+0/Xorg_dri2proto.v2.8.0.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_dri2proto]]
+arch = "armv7l"
+git-tree-sha1 = "a82f3018dd776b9b31374a528f67813d4429e70e"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_dri2proto.download]]
+    sha256 = "3eb8071cdd3ae0d9559ce44411c0f016a86b7afc6b31c3c73f5c91115844c8ac"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_dri2proto_jll.jl/releases/download/Xorg_dri2proto-v2.8.0+0/Xorg_dri2proto.v2.8.0.arm-linux-musleabihf.tar.gz"
+[[Xorg_dri2proto]]
+arch = "aarch64"
+git-tree-sha1 = "5741c408857d1696094bea6651125ca8660859f6"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_dri2proto.download]]
+    sha256 = "cce7105ceb000ab5992a14d8503f841cb9b7d8868b21eb2113b7ad63e1be9ad8"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_dri2proto_jll.jl/releases/download/Xorg_dri2proto-v2.8.0+0/Xorg_dri2proto.v2.8.0.aarch64-linux-gnu.tar.gz"
+[[Xorg_dri2proto]]
+arch = "x86_64"
+git-tree-sha1 = "528655a02b8d5de9dd4020d43a1e6efe091b12ef"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_dri2proto.download]]
+    sha256 = "3139309b0b4c1d3dfe25040a8271ede26dfabdb6534ceab9e342bfb5ed431fa3"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_dri2proto_jll.jl/releases/download/Xorg_dri2proto-v2.8.0+0/Xorg_dri2proto.v2.8.0.x86_64-linux-gnu.tar.gz"
+[[Xorg_dri2proto]]
+arch = "x86_64"
+git-tree-sha1 = "58371349380b0dd1654bddc20420fdde436815c6"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_dri2proto.download]]
+    sha256 = "a9d983cb4468fba3bacf729117e2ed1d48454726e9e932a0126ba1edbb815a98"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_dri2proto_jll.jl/releases/download/Xorg_dri2proto-v2.8.0+0/Xorg_dri2proto.v2.8.0.x86_64-linux-musl.tar.gz"
